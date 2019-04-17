@@ -38,7 +38,7 @@
 
 /* <img src="images/kitty-5.png" alt="Kitty 5"> */
 
-a[href="Kitty 5"] {
+img[href="Kitty 5"] {
   position: absolute;
   z-index: 3;
   top: 217px;
